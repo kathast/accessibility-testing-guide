@@ -1,3 +1,14 @@
+:root {
+  --vp-c-brand-1: #775ed3;
+  --vp-c-brand-2: #6b52c4;
+  --vp-c-brand-3: #5f47b0;
+  --vp-c-brand-soft: rgba(119, 94, 211, 0.14);
+}
+
+.VPButton.brand:hover {
+  color: #ffffff;
+}
+
 .custom-block.warning {
   background-color: rgba(254, 249, 195, 0.8);
   border: none;
