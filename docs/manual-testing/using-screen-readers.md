@@ -1,4 +1,4 @@
-# Screen Reader Testing
+# Using Screen Readers
 
 ## Testing Landmarks
 

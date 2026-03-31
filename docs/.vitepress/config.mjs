@@ -18,20 +18,29 @@ export default defineConfig({
     ],
     sidebar: [
       {
+        items: [
+          { text: 'Introduction', link: '/introduction' },
+        ],
+      },
+      {
         text: 'Automated Testing',
         items: [
           { text: 'Axe DevTools', link: '/automated-testing/axe-devtools' },
           { text: 'Level Access', link: '/automated-testing/level-access' },
         ],
       },
-      { text: 'Accessibility Bug Report Template', link: '/accessibility-bug-report-template' },
+      {
+        items: [
+          { text: 'Issue Reporting', link: '/issue-reporting' },
+        ],
+      },
       {
         text: 'Manual Testing',
         items: [
-          { text: 'Essential Toolkit', link: '/manual-testing/essential-toolkit' },
-          { text: 'Step-by-Step Evaluation Process', link: '/manual-testing/step-by-step-evaluation' },
-          { text: 'Recommended Methodology: The "Big Four"', link: '/manual-testing/recommended-methodology' },
-          { text: 'Screen Reader Testing', link: '/manual-testing/screen-reader-testing' },
+          { text: 'Toolkit', link: '/manual-testing/toolkit' },
+          { text: 'Instructions', link: '/manual-testing/instructions' },
+          { text: 'Principles', link: '/manual-testing/principles' },
+          { text: 'Using Screen Readers', link: '/manual-testing/using-screen-readers' },
           { text: 'Documentation', link: '/manual-testing/documentation' },
         ],
       },

@@ -1,1 +1,0 @@
-# Accessibility Bug Report Template
