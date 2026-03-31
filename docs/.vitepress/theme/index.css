@@ -1,0 +1,8 @@
+.custom-block.warning {
+  background-color: #fef9c3;
+  border-color: #eab308;
+}
+
+.custom-block.warning .custom-block-title {
+  display: none;
+}
