@@ -25,6 +25,7 @@ export default defineConfig({
       {
         text: 'Automated Testing',
         items: [
+          { text: 'Getting Started', link: '/automated-testing/getting-started' },
           { text: 'Axe DevTools', link: '/automated-testing/axe-devtools' },
           { text: 'Level Access', link: '/automated-testing/level-access' },
           { text: 'Issue Reporting', link: '/issue-reporting' },
@@ -33,6 +34,7 @@ export default defineConfig({
       {
         text: 'Manual Testing',
         items: [
+          { text: 'Getting Started', link: '/manual-testing/getting-started' },
           { text: 'Toolkit', link: '/manual-testing/toolkit' },
           { text: 'Instructions', link: '/manual-testing/instructions' },
           { text: 'Principles', link: '/manual-testing/principles' },
