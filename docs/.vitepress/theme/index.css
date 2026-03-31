@@ -1,6 +1,13 @@
 .custom-block.warning {
-  background-color: #fef9c3;
-  border-color: #eab308;
+  background-color: rgba(254, 249, 195, 0.8);
+  border: none;
+  color: #1b1b1f;
+}
+
+.custom-block.warning p,
+.custom-block.warning li,
+.custom-block.warning a {
+  color: #1b1b1f;
 }
 
 .custom-block.warning .custom-block-title {
