@@ -23,7 +23,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Automated Testing',
+        text: '1. Automated Testing',
         items: [
           { text: 'Axe DevTools', link: '/automated-testing/axe-devtools' },
           { text: 'Level Access', link: '/automated-testing/level-access' },
@@ -31,7 +31,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Manual Testing',
+        text: '2. Manual Testing',
         items: [
           { text: 'Toolkit', link: '/manual-testing/toolkit' },
           { text: 'Instructions', link: '/manual-testing/instructions' },
