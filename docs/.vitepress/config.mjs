@@ -27,10 +27,6 @@ export default defineConfig({
         items: [
           { text: 'Axe DevTools', link: '/automated-testing/axe-devtools' },
           { text: 'Level Access', link: '/automated-testing/level-access' },
-        ],
-      },
-      {
-        items: [
           { text: 'Issue Reporting', link: '/issue-reporting' },
         ],
       },
